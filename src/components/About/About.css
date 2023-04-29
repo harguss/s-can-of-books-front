@@ -1,0 +1,42 @@
+
+
+nav {
+  font-size: 30px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(45, 76, 66);
+
+}
+
+body {
+background-color: rgb(29, 27, 27);
+}
+.Card {
+  padding-top: 3%;
+  display: flex;
+  justify-content: space-around;
+  
+}
+.card {
+  border: 10px solid;
+  border-color: rgb(41, 40, 40);
+}
+
+  
+ 
+.aboutUs {
+  /* padding: 10px; */
+  background-image: url('./images/bgBooks.png');
+  background-size: cover;
+  height: 100vh;
+  background-color: rgb(40, 88, 70);
+}
+h1 {
+  color: gray;
+  text-align: center;
+
+}
